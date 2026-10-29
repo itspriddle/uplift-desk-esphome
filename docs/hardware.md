@@ -1,10 +1,17 @@
-# RJ45 Breakout Board & Pass-Through Adapter
+# Hardware
+
+## ESP32
+
+- ESP32 devkit V1 typec
+- Amazon: https://www.amazon.com/dp/B0F1MS5S8R
+
+## RJ45 Breakout Board & Pass-Through Adapter
 
 - Amazon: https://www.amazon.com/dp/B0D3J6PB4S
 - Unbranded
 - `6969074A_Y8_240117` in images, does not appear on mine though
 
-## Measurements
+### Measurements
 
 - Board
     - 57.48mm long
